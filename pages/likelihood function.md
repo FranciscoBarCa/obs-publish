@@ -1,0 +1,1 @@
+$$\begin{array}{c}{{l=\prod_{i:y_{i}=1}\hat{p}(x_{i})\prod_{i^{\prime}:y_{i}=0}(1-\hat{p}(x_{i},))}}\end{array}$$

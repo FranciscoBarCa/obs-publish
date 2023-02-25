@@ -1,0 +1,1 @@
+#Control_Avanzado #modelado Numero de polos y ceros girops izquierda y der

@@ -1,0 +1,3 @@
+[Perfil de LinkedIn](https://www.linkedin.com/in/francisco-barragan-castro/)
+1. Que te parecen los valores de la empresa → mirar web para proyectos y valores
+2. Palabras positivas, nada nunca…

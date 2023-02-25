@@ -1,0 +1,2 @@
+ Las funciones de transferencia son recomendables solo para sistemas SISO.
+Para los sitemas MIMO se pueden generar [[Matrices de transferencia]] donde tenemos muchas funciones para cada combinacion de ent y sal.
